@@ -119,6 +119,10 @@ This project was created for educational and personal learning purposes.
 
 Users are responsible for complying with the terms of service of any platform they use with this software.
 
+본 프로젝트는 교육 및 개인 학습 목적으로 제작되었습니다.
+
+사용자는 해당 소프트웨어를 사용하는 과정에서 각 플랫폼의 이용 약관을 준수해야 합니다.
+
 ## License
 
 MIT License
